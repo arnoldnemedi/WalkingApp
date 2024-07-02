@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WalkingApp.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+716342c32279e4536de206b63f536f67710e7387")]
 [assembly: System.Reflection.AssemblyProductAttribute("WalkingApp.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WalkingApp.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
